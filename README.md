@@ -2,10 +2,10 @@
 
 This repo is intended to house some tools for converting different HDX-MS software formats to the DynamX Cluster format for use in [Deuteros](https://github.com/andymlau/Deuteros_2.0).
 
-### 1. HDExaminer
+### 1. HDExaminer   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andymlau/File-conversion-for-HDX/blob/main/hdexaminer_convert.ipynb)
 This tool converts the output of HDExaminer software to the DynamX Cluster format.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andymlau/File-conversion-for-HDX/blob/main/hdexaminer_convert.ipynb)
+
 
 **Column mappings**
 
